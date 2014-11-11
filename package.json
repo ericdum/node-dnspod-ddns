@@ -1,0 +1,6 @@
+{
+  "name": "ddns",
+  "dependencies": {
+    "request": "*"
+  }
+}
